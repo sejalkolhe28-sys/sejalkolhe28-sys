@@ -1,3 +1,16 @@
+<h1 align="center">
+  Hi, I'm Sejal! 👋
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=500&lines=Hi%2C+I+am+Sejal!;AI+%26+Data+Science+Student;Welcome+to+my+GitHub+Profile!" />
+</p>
+
+
+
+
+
+
 # 💫 About Me:
 💻 Code. Create. Innovate. Repeat.<br>🎓 B.Tech CSE (AI & DS) Student at Pimpri Chinchwad University, India 🇮🇳<br>🎯Collaborate with developers and contribute to open-source projects.
 
